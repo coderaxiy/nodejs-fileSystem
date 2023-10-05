@@ -1,0 +1,1 @@
+write to /Users/kholiylullohahmadjanov/Desktop/test.txt: Some content
